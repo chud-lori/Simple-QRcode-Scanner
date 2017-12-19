@@ -1,0 +1,9 @@
+First, you should install:
+1. Zbar tools
+2. Python zbar
+
+If you are using Linux, just copy this to your terminal:
+
+sudo apt-get zbar-tools
+
+sudo apt-get install python-zbar
